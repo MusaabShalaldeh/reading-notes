@@ -17,5 +17,6 @@ Distributed Version Control systems (DVCS) solves the major vulnerability of the
 
 ###### Git
 
-Git is a DVCS(Distributed Version Control systems) that stores data in a file system made up of snapshots.
-Each time a changed has been made it records it and creates a copy of the file each time a **commit** is made so that it can be accessed later and it prevents the loss of those files.
+Git is a DVCS(Distributed Version Control systems) that stores data in a file system made up of snapshots(or multiple copies of the file).
+
+Each time a change is made, it records the change and creates a copy of the file each time a **commit** is made, so that it can be accessed later and it prevents the loss of those files.
