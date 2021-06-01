@@ -1,5 +1,5 @@
 Hello I am Musaab Shalaldeh, a student at ASAC and here is
-where I share my Projects.
+where I share my Assignments.
 
 
 # Table of Contents
