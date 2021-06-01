@@ -7,3 +7,8 @@ It is the concept of one's abilities and way of thinking about approaching learn
 1. Keeping in mind that there is **no _gain_ without _pain_**, alot of effort has to be put in order to achieve your goals.
 2. **Taking criticism with an _open mind_** no matter how strong it is, and using that criticism as a way to *improve yourself*.
 3. ***Success of others doesn't mean that you are a failure***, but you must take it as a goal to achieve for yourself aswell.
+
+
+
+
+[Go Back](https://musaabshalaldeh.github.io/reading-notes/)
