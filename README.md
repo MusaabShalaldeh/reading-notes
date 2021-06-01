@@ -9,4 +9,4 @@ where I share my Assignments.
 | _Growth Mindset_     | [GoTo](https://musaabshalaldeh.github.io/reading-notes/GrowthMindset)      |
 | _Markdown Language_  | [GoTo](https://musaabshalaldeh.github.io/reading-notes/read1)       |
 |      Version Control Summary       |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/read2)          |
-| _HTML Structure_          |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/htmlStructure)         |
+| _Web Page Structure with HTML_          |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/htmlStructure)         |

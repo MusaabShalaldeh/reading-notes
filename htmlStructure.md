@@ -1,4 +1,3 @@
-***in-progress***
 # Web Pages Structure with HTML Summary.
 
 Structing Web Pages is one of main things to do whenever you as a Web Developer wanting to create a website,
