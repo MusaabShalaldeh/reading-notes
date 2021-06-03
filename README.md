@@ -12,6 +12,6 @@ where I share my Assignments.
 | _Web Page Structure with HTML_          |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/htmlStructure)         |
 | _Dynamic Web Pages With Js_          |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/DynamicWebPages)         |
 |_Operators And Loops_| [GoTo](https://musaabshalaldeh.github.io/reading-notes/OperatorsAndLoops)|
-|_Web Pages With Css_| [GoTo](https://musaabshalaldeh.github.io/reading-notes/OperatorsAndLoops)|
+|_Web Pages With Css_| [GoTo](https://musaabshalaldeh.github.io/reading-notes/WebPagesWithCSS)|
 
 
