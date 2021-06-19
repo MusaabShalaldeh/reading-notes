@@ -1,8 +1,10 @@
 Hello I am Musaab Shalaldeh, a student at ASAC and here is
-where I share my Assignments.
+where I share my Read Assignments.
 
 
 # Content
+
+### 102 Reads
 
 | **Read Number**      | **Link** |
 | ----------- | ----------- |
@@ -15,5 +17,8 @@ where I share my Assignments.
 |_Web Pages With Css_| [GoTo](https://musaabshalaldeh.github.io/reading-notes/WebPagesWithCSS)|
 |_Programming with Js_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/ProgrammingWithJs)|
 
+### 201 Reads
 
-
+| **Read Number**      | **Link** |
+| ----------- | ----------- |
+|_Duckett HTML & Duckett JS Books Summary_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-01)|
