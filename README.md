@@ -22,3 +22,4 @@ where I share my Read Assignments.
 | **Read Number**      | **Link** |
 | ----------- | ----------- |
 |_Duckett HTML & Duckett JS Books Summary_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-01)|
+|_Basics of HTML, CSS & JS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-02)|
