@@ -23,3 +23,4 @@ where I share my Read Assignments.
 | ----------- | ----------- |
 |_Duckett HTML & Duckett JS Books Summary_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-01)|
 |_Basics of HTML, CSS & JS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-02)|
+|_HTML Lists, Control Flow with JS, and the CSS Box Model_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-03)|
