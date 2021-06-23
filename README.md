@@ -25,3 +25,4 @@ where I share my Read Assignments.
 |_Basics of HTML, CSS & JS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-02)|
 |_HTML Lists, Control Flow with JS, and the CSS Box Model_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-03)|
 |_HTML Links, JS Functions, and Intro to CSS Layout_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-04)|
+|_Images, Color and Text in HTML and CSS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-05)|
