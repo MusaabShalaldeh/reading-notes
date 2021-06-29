@@ -29,3 +29,4 @@ where I share my Read Assignments.
 |_Problem Domain, Objects, and the DOM_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-06)|
 |_Object-Oriented Programming, HTML Tables_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-07)|
 |_CSS Layout_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-08)|
+|_Forms and JS Events_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-09)|
