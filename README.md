@@ -30,3 +30,4 @@ where I share my Read Assignments.
 |_Object-Oriented Programming, HTML Tables_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-07)|
 |_CSS Layout_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-08)|
 |_Forms and JS Events_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-09)|
+|_Debugging_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-10)|
