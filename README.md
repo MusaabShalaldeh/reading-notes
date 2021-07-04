@@ -32,3 +32,4 @@ where I share my Read Assignments.
 |_Forms and JS Events_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-09)|
 |_Debugging_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-10)|
 |_Images & Practical Information_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-11)|
+|_Chart.js & Canvas_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-12)|
