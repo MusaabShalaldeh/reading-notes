@@ -33,3 +33,4 @@ where I share my Read Assignments.
 |_Debugging_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-10)|
 |_Images & Practical Information_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-11)|
 |_Chart.js & Canvas_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-12)|
+|_Local Storage_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-13)|
