@@ -34,3 +34,5 @@ where I share my Read Assignments.
 |_Images & Practical Information_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-11)|
 |_Chart.js & Canvas_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-12)|
 |_Local Storage_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-13)|
+|_CSS Transforms, Transitions, and Animations_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-14a)|
+|_What Google Learned About Teams_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-14b)|
