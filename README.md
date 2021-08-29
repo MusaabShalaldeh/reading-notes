@@ -41,6 +41,8 @@ where I share my Read Assignments.
 ### -Code 301 - Intermediate Software Development
 | **Read Number**      | **Link** |
 | ----------- | ----------- |
+|_State and Props_|https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-02.md|
+
 
 
 ### -Code 401 - Advanced Software Development
