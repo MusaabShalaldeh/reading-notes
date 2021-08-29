@@ -6,7 +6,7 @@ where I share my Read Assignments.
 
 ### -Code 102 - Intro to Software Development
 
-| **Read Number**      | **Link** |
+| **Read Name**      | **Link** |
 | ----------- | ----------- |
 | _Growth Mindset_     | [GoTo](https://musaabshalaldeh.github.io/reading-notes/GrowthMindset)      |
 | _Markdown Language_  | [GoTo](https://musaabshalaldeh.github.io/reading-notes/read1)       |
@@ -19,7 +19,7 @@ where I share my Read Assignments.
 
 ### -Code 201 - Foundations of Software Development
 
-| **Read Number**      | **Link** |
+| **Read Name**      | **Link** |
 | ----------- | ----------- |
 |_Duckett HTML & Duckett JS Books Summary_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-01)|
 |_Basics of HTML, CSS & JS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-02)|
@@ -39,6 +39,8 @@ where I share my Read Assignments.
 
 
 ### -Code 301 - Intermediate Software Development
-| **Read Number**      | **Link** |
+
+| **Read Name**      | **Link** |
 | ----------- | ----------- |
+|_Missing_|_Missing_|
 |_State and Props_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-02)|
