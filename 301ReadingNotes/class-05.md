@@ -30,8 +30,9 @@ A-
 A- The state should be where every a function should be called to update/do something based on that state, generally it sits on a parent.
 
 
+## Things I want to know more about
 
-
+- Most of my questions are already answered, but I would like to learn more about JSON files.
 
 
 
