@@ -48,3 +48,4 @@ where I share my Read Assignments.
 |_React and Forms_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-04)|
 |_Putting it all together_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-05)|
 |_Node.js_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-06)|
+|_Rest_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-07)|
