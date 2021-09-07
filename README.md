@@ -49,3 +49,5 @@ where I share my Read Assignments.
 |_Putting it all together_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-05)|
 |_Node.js_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-06)|
 |_Rest_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-07)|
+|_Missing_|_Missing_|
+|_FUNCTIONAL PROGRAMMING_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-09)|
