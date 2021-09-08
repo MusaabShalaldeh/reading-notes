@@ -51,3 +51,4 @@ where I share my Read Assignments.
 |_Rest_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-07)|
 |_Missing_|_Missing_|
 |_FUNCTIONAL PROGRAMMING_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-09)|
+|_In memory storage_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/301ReadingNotes/class-10)|
