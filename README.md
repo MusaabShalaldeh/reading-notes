@@ -8,34 +8,34 @@ where I share my Read Assignments.
 
 | **Read Name**      | **Link** |
 | ----------- | ----------- |
-| _Growth Mindset_     | [GoTo](https://musaabshalaldeh.github.io/reading-notes/GrowthMindset)      |
-| _Markdown Language_  | [GoTo](https://musaabshalaldeh.github.io/reading-notes/read1)       |
-|      Version Control Summary       |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/read2)          |
-| _Web Page Structure with HTML_          |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/htmlStructure)         |
-| _Dynamic Web Pages With Js_          |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/DynamicWebPages)         |
-|_Operators And Loops_| [GoTo](https://musaabshalaldeh.github.io/reading-notes/OperatorsAndLoops)|
-|_Web Pages With Css_| [GoTo](https://musaabshalaldeh.github.io/reading-notes/WebPagesWithCSS)|
-|_Programming with Js_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/ProgrammingWithJs)|
+| _Growth Mindset_     | [GoTo](https://musaabshalaldeh.github.io/reading-notes/102ReadingNotes/GrowthMindset)      |
+| _Markdown Language_  | [GoTo](https://musaabshalaldeh.github.io/reading-notes/102ReadingNotes/read1)       |
+|      Version Control Summary       |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/102ReadingNotes/read2)          |
+| _Web Page Structure with HTML_          |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/102ReadingNotes/htmlStructure)         |
+| _Dynamic Web Pages With Js_          |    [GoTo](https://musaabshalaldeh.github.io/reading-notes/102ReadingNotes/DynamicWebPages)         |
+|_Operators And Loops_| [GoTo](https://musaabshalaldeh.github.io/reading-notes/102ReadingNotes/OperatorsAndLoops)|
+|_Web Pages With Css_| [GoTo](https://musaabshalaldeh.github.io/reading-notes/102ReadingNotes/WebPagesWithCSS)|
+|_Programming with Js_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/102ReadingNotes/ProgrammingWithJs)|
 
 ### -Code 201 - Foundations of Software Development
 
 | **Read Name**      | **Link** |
 | ----------- | ----------- |
-|_Duckett HTML & Duckett JS Books Summary_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-01)|
-|_Basics of HTML, CSS & JS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-02)|
-|_HTML Lists, Control Flow with JS, and the CSS Box Model_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-03)|
-|_HTML Links, JS Functions, and Intro to CSS Layout_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-04)|
-|_Images, Color and Text in HTML and CSS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-05)|
-|_Problem Domain, Objects, and the DOM_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-06)|
-|_Object-Oriented Programming, HTML Tables_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-07)|
-|_CSS Layout_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-08)|
-|_Forms and JS Events_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-09)|
-|_Debugging_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-10)|
-|_Images & Practical Information_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-11)|
-|_Chart.js & Canvas_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-12)|
-|_Local Storage_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-13)|
-|_CSS Transforms, Transitions, and Animations_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-14a)|
-|_What Google Learned About Teams_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/class-14b)|
+|_Duckett HTML & Duckett JS Books Summary_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-01)|
+|_Basics of HTML, CSS & JS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-02)|
+|_HTML Lists, Control Flow with JS, and the CSS Box Model_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-03)|
+|_HTML Links, JS Functions, and Intro to CSS Layout_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-04)|
+|_Images, Color and Text in HTML and CSS_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-05)|
+|_Problem Domain, Objects, and the DOM_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-06)|
+|_Object-Oriented Programming, HTML Tables_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-07)|
+|_CSS Layout_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-08)|
+|_Forms and JS Events_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-09)|
+|_Debugging_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-10)|
+|_Images & Practical Information_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-11)|
+|_Chart.js & Canvas_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-12)|
+|_Local Storage_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-13)|
+|_CSS Transforms, Transitions, and Animations_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-14a)|
+|_What Google Learned About Teams_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/201ReadingNotes/class-14b)|
 
 
 ### -Code 301 - Intermediate Software Development
@@ -61,3 +61,4 @@ where I share my Read Assignments.
 ### -Code 401 - Advanced Software Development
 | **Read Name**      | **Link** |
 | ----------- | ----------- |
+|_Class 01 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-01)|
