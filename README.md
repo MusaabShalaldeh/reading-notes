@@ -62,3 +62,4 @@ where I share my Read Assignments.
 | **Read Name**      | **Link** |
 | ----------- | ----------- |
 |_Class 01 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-01)|
+|_Class 02 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-02)|
