@@ -65,3 +65,4 @@ where I share my Read Assignments.
 |_Class 02 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-02)|
 |_Class 03 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-03)|
 |_Class 04 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-04)|
+|_Class 05 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-05)|
