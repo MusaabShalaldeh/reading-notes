@@ -66,3 +66,8 @@ where I share my Read Assignments.
 |_Class 03 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-03)|
 |_Class 04 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-04)|
 |_Class 05 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-05)|
+|_Class 06 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-06)|
+|_Class 07 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-07)|
+|_Class 08 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-08)|
+|_Class 09 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-09)|
+|_Class 10 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-10)|
