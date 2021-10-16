@@ -5,7 +5,7 @@
 
 ### What is a Stack?
 
--A stack is a data structure that consists of Nodes. Each Node references the next Node in the stack, but DOES NOT reference its previous.
+-A stack is a data structure that consists of Nodes. Each Node references the next Node in the stack but DOES NOT reference its previous.
 
 
 ### Common methods that a stack must have
@@ -13,12 +13,12 @@
 1- Push - Nodes or items that are put into the stack are pushed
 2- Pop - Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.
 3- Top - This is the top of the stack.
-4- Peek - When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
-5- IsEmpty - returns true when stack is empty otherwise returns false.
+4- Peek - When you peek you will view the value of the top Node in the stack. When you attempt to peek at an empty stack an exception will be raised.
+5- IsEmpty - returns true when the stack is empty otherwise returns false.
 
 
 
-### Stacs follow 2 Important concents:
+### Stacks follow 2 Important concepts:
 
 ```
 FILO
@@ -71,7 +71,7 @@ ALGORITHM pop()
 
 #### Peek O(1)
 
--Returning the top of the stack element, however we should check if the stack is empty or not first.
+-Returning the top of the stack element, however, we should check if the stack is empty or not first.
 
 -algorithm in Pseudo Code
 ```
@@ -100,9 +100,9 @@ return top = NULL
 
 # Queue
 
-What is an Queue ?
+What is an Queue?
 
--A queue is a collection of objects that supports fast first-in, first-out (FIFO) semantics for inserts and deletes. The insert and delete operations sometimes called enqueue and dequeue. Unlike lists or arrays, queues typically don't allow for random access to the objects they contain.
+-A queue is a collection of objects that supports fast first-in, first-out (FIFO) semantics for inserts and deletes. The insert and delete operations are sometimes called enqueue and dequeue. Unlike lists or arrays, queues typically don't allow for random access to the objects they contain.
 
 
 ### Common methods for Queues
@@ -112,13 +112,13 @@ What is an Queue ?
 3- Front - Return first node.
 4- Rear - Return last node
 5- Peek - Return the value of the first node.
-6- IsEmpty - returns true when queue is empty otherwise returns false.
+6- IsEmpty - returns true when the queue is empty otherwise returns false.
 
 
 Queues also follow FILO and LIFO concepts.
 
 
-### Big O of Stack Methods with Pesudo Code:
+### Big O of Stack Methods with Pseudo Code:
 
 #### Enqueue O(1):
 
