@@ -80,3 +80,8 @@ where I share my Read Assignments.
 |_Class 17 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-17)|
 |_Class 18 Read(missing)_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-18)|
 |_Class 19 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-19)|
+|_Class 26 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-26)|
+|_Class 27 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-27)|
+|_Class 28 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-28)|
+|_Class 29 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-29)|
+|_Class 30 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-30)|
