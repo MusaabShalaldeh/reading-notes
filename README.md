@@ -85,3 +85,16 @@ where I share my Read Assignments.
 |_Class 28 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-28)|
 |_Class 29 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-29)|
 |_Class 30 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-30)|
+|_Class 31 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-31)|
+|_Class 32 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-32)|
+|_Class 33 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-33)|
+|_Class 34 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-34)|
+|_Class 35 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-35)|
+|_Class 36 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-36)|
+|_Class 37 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-37)|
+|_Class 38 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-38)|
+|_Class 39 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-39)|
+|_Class 40 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-40)|
+|_Class 41 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-41)|
+|_Class 42 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-42)|
+|_Class 43 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-43)|
