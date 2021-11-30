@@ -51,9 +51,9 @@ const YourComponent = () => (
 
 ### Metadata
 
-### How can we modify the metadata of the page, such as the <title> HTML tag?
+### How can we modify the metadata of the page, such as the title HTML tag?
 
-<title> is part of the <head> HTML tag, so let's dive into how we can modify the <head> tag in a Next.js page.
+title is part of the head HTML tag, so let's dive into how we can modify the head tag in a Next.js page.
 
 Open pages/index.js in your editor and find the following lines:
 
@@ -64,7 +64,7 @@ Open pages/index.js in your editor and find the following lines:
 </Head>
 ```
 
-Notice that <Head> is used instead of the lowercase <head>. <Head> is a React Component that is built into Next.js. It allows you to modify the <head> of a page.
+Notice that Head is used instead of the lowercase head. Head is a React Component that is built into Next.js. It allows you to modify the head of a page.
 
 You can import the Head component from the next/head module.
 
