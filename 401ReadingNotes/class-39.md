@@ -13,9 +13,11 @@
 ### Example of unoptimized image/asset:
 
 With regular HTML, you would add your profile picture as follows:
+
 ```html
 <img src="/images/profile.jpg" alt="Your Name" />
 ```
+
 However, this means you have to manually handle:
 
 * Ensuring your image is responsive on different screen sizes
@@ -54,12 +56,14 @@ const YourComponent = () => (
 <title> is part of the <head> HTML tag, so let's dive into how we can modify the <head> tag in a Next.js page.
 
 Open pages/index.js in your editor and find the following lines:
+
 ```jsx
 <Head>
   <title>Create Next App</title>
   <link rel="icon" href="/favicon.ico" />
 </Head>
 ```
+
 Notice that <Head> is used instead of the lowercase <head>. <Head> is a React Component that is built into Next.js. It allows you to modify the <head> of a page.
 
 You can import the Head component from the next/head module.
