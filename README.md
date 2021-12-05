@@ -97,4 +97,5 @@ where I share my Read Assignments.
 |_Class 40 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-40)|
 |_Class 41 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-41)|
 |_Class 42 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-42)|
+|_Class 42 Read 2_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-42-read2)|
 |_Class 43 Read_|[GoTo](https://musaabshalaldeh.github.io/reading-notes/401ReadingNotes/class-43)|
